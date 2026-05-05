@@ -34,19 +34,16 @@ Criar um Mini CRM básico para cadastro e gerenciamento de contatos, permitindo 
 ---
 
 ## 📸 Espaço para Screenshots
-*(Substitua os links abaixo pelos caminhos reais das imagens após subir no GitHub)*
 
 - Formulário de cadastro  
-  ![Formulário de Cadastro](images/formulario.png)
+  ![Formulário de Cadastro](images/formulario.jpeg)
 
-- Alertas de erro e sucesso  
-  ![Alertas](images/alertas.png)
+- Alertas  
+  ![Alertas](images/validacao.jpeg)
+  ![Alertas](images/validacao2.jpeg)
 
-- Lista dinâmica de contatos (Repeating Group)  
-  ![Lista de Contatos](images/lista_contatos.png)
-
-- Exclusão de contato em tempo real  
-  ![Exclusão](images/exclusao.png)
+- Lista dinâmica de contatos (Repeating Group) e Exclusão de contato em tempo real
+  ![Lista de Contatos](images/contatos.jpeg)
 
 ---
 
@@ -54,7 +51,7 @@ Criar um Mini CRM básico para cadastro e gerenciamento de contatos, permitindo 
 - Configurar **Privacy Rules** para permitir criação/exclusão sem login  
 - Integrar **ViaCEP API** para preenchimento automático de endereço  
 - Evoluir para **multiusuário** com Supabase (planejado)  
-- **Adição de alertas estratégicos para melhorar a experiência**  
+- Adição de alertas estratégicos para melhorar a experiência  
 - Automação futura com **Make/Zapier**  
 
 ---
@@ -113,19 +110,16 @@ Create a basic Mini CRM for contact registration and management, allowing any us
 ---
 
 ## 📸 Screenshots
-*(Replace the links below with the actual paths to your images once uploaded to GitHub)*
 
 - Registration form  
-  ![Registration Form](images/registration_form.png)
+  ![Registration Form](images/formulario.jpeg)
 
-- Error and success alerts  
-  ![Alerts](images/alerts.png)
+- Alerts  
+  ![Alerts](images/validacao.jpeg)
+  ![Alerts](images/validacao2.jpeg)
 
-- Dynamic contact list (Repeating Group)  
-  ![Contact List](images/contact_list.png)
-
-- Real-time deletion  
-  ![Deletion](images/deletion.png)
+- Dynamic contact list (Repeating Group) Real-time deletion   
+  ![Contact List](images/contatos.jpeg)
 
 ---
 
